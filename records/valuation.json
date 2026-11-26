@@ -1,0 +1,38 @@
+[
+  {
+    "id": "v-1",
+    "scope": [
+      "plate-51",
+      "sheet-51a"
+    ],
+    "amount": 86400,
+    "group_only": true
+  },
+  {
+    "id": "v-5",
+    "scope": [
+      "sheet-77"
+    ],
+    "amount": 25200,
+    "group_only": false
+  },
+  {
+    "id": "v-6",
+    "scope": [
+      "sheet-51b"
+    ],
+    "amount": 9200,
+    "group_only": false
+  },
+  {
+    "id": "gift-ack-1",
+    "kind": "signed_receipt",
+    "agreement": "gift-17",
+    "scope": [
+      "sheet-51a"
+    ],
+    "valuation": "v-1",
+    "amount": 43200,
+    "issued_day": 6
+  }
+]

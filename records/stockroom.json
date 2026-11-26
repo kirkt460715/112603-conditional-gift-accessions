@@ -1,0 +1,72 @@
+[
+  {
+    "id": "box-5",
+    "day": 3,
+    "items": [
+      {
+        "label": "S51",
+        "mark": "blue",
+        "kind": "impression"
+      },
+      {
+        "label": "S51",
+        "mark": "black",
+        "kind": "impression"
+      },
+      {
+        "label": "P51",
+        "mark": "rev-2",
+        "kind": "block"
+      }
+    ]
+  },
+  {
+    "id": "inspect-5",
+    "box": "box-5",
+    "day": 4,
+    "witnessed": [
+      {
+        "piece": "sheet-51a",
+        "mark": "blue"
+      },
+      {
+        "piece": "sheet-51b",
+        "mark": "black"
+      }
+    ],
+    "unresolved": [
+      "plate-51"
+    ]
+  },
+  {
+    "id": "inspect-6",
+    "box": "box-5",
+    "day": 8,
+    "witnessed": [
+      {
+        "piece": "plate-51",
+        "mark": "rev-2"
+      }
+    ]
+  },
+  {
+    "id": "return-8",
+    "box": "box-5",
+    "day": 9,
+    "items": [
+      "sheet-51b"
+    ],
+    "received_by": "a-9"
+  },
+  {
+    "id": "arrival-9",
+    "day": 10,
+    "items": [
+      {
+        "piece": "sheet-77",
+        "mark": "green",
+        "kind": "impression"
+      }
+    ]
+  }
+]

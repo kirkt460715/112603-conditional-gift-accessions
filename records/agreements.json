@@ -1,0 +1,57 @@
+[
+  {
+    "id": "gift-17",
+    "donor": "a-7",
+    "pieces": [
+      "plate-51",
+      "sheet-51a"
+    ],
+    "basis": "ownership",
+    "all_or_none": true,
+    "signers": [
+      "a-7"
+    ],
+    "required": [
+      "a-7",
+      "a-8"
+    ]
+  },
+  {
+    "id": "gift-18",
+    "donor": "a-9",
+    "pieces": [
+      "sheet-51a",
+      "sheet-51b"
+    ],
+    "basis": "custody",
+    "all_or_none": false,
+    "signers": [
+      "a-9"
+    ],
+    "required": [
+      "a-9"
+    ]
+  },
+  {
+    "id": "gift-22",
+    "donor": "a-7",
+    "pieces": [
+      "sheet-77"
+    ],
+    "basis": "ownership",
+    "all_or_none": false,
+    "signers": [
+      "a-7"
+    ],
+    "required": [
+      "a-7"
+    ]
+  },
+  {
+    "id": "agreement-23",
+    "kind": "signature",
+    "agreement": "gift-17",
+    "signer": "a-8",
+    "day": 7
+  }
+]
