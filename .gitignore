@@ -10,3 +10,5 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+back_office_events.jsonl
+*.jsonl
